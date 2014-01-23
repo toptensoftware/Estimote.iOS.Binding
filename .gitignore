@@ -1,0 +1,9 @@
+bin
+obj
+*.user
+*.suo
+*.sublime-workspace
+*.userprefs
+.DS_Store
+out
+*.apk
